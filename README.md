@@ -2,7 +2,7 @@
 
 ## Website Deploy 🏁
 
-https://github.com/diaslucia/memory-game
+https://diaslucia.github.io/memory-game/
 
 ## Tools 🛠️
 
